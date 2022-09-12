@@ -1,0 +1,14 @@
+.items
+{
+    padding: 16px;
+    background-color: black;
+    margin: 32px auto;
+    width: 800px;
+    max-width: 95%;
+   
+}
+.no_items
+{
+    color: azure;
+    text-align: center;
+}

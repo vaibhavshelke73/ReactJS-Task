@@ -1,0 +1,25 @@
+.shopping-item {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 12px;
+    background-color: grey;
+    color: aliceblue;
+    align-items: center;
+    padding: 5px;
+    margin: 10px 0 0 0;
+}
+.shopping-item h2 {
+    color: brown;
+    font-size: 30px;
+    margin: 0 10px;
+}
+.shopping-item_cost{
+    font-size: 20px;
+margin: 0 10px;
+border: 1px solid white;
+background-color: black;
+}
+.shopping-item_date{
+    font-size: 20px;
+    margin: 0 10px;
+}
