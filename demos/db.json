@@ -1,0 +1,43 @@
+{
+    "customers": [
+{
+"feedback": "This is the test feedback for the customers 1.",
+"name":"Customer001",
+"email":"customer001@bitcode.in",
+"tel": "8989898",
+"id": 1
+},
+
+{
+    "feedback": "This is the test feedback for the customers 1.",
+    "id": 2,
+    "name":"Customer002",
+    "email":"customer002@bitcode.in",
+    "tel": "8989898"
+    
+    },
+
+    {
+        "feedback": "This is the test feedback for the customers 1.",
+        "id": "3",
+        "name":"Customer003",
+        "email":"customer003@bitcode.in",
+        "tel": "8989898555"
+        
+        }
+
+    ],
+
+    "products": [
+        {
+            "id":"100",
+            "name":"laptop",
+            "cost":"34000"
+        },
+        {
+            "id":"101",
+            "name":"phone",
+            "cost":"52000"
+        }
+    ]
+}

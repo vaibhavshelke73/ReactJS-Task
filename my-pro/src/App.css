@@ -1,0 +1,27 @@
+button[type] {
+  border: none;
+  padding: 0.4rem 1rem;
+  text-align: center;
+  margin-top: 1rem;
+  font-family: "Raleway", sans-serif;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  outline: none;
+}
+
+button[type]:hover {
+  background-color: blue;
+  color: aliceblue;
+}
+
+.showDataStyle {
+  min-width: 20rem;
+  width: 60rem;
+  min-height: 2rem;
+  padding: 1rem;
+  background: rgb(68, 116, 207);
+  color: aliceblue;
+  margin-top: 4rem;
+  display: flex;
+  justify-content: space-around;
+}
